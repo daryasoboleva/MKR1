@@ -14,7 +14,7 @@ Kuzminykh Ulyana - Business analyst (product manager)?
 Polygalov Vladimir - Architect + Developer
 Plakhina Tatiana -
 Timiskova Anna -
-Soboleva Daria -
+Soboleva Darya -
 <<<<<<< HEAD
 &
 =======
